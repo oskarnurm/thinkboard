@@ -15,5 +15,3 @@ connectDB();
 app.listen(PORT, () => {
   console.log("server started on PORT: " + PORT);
 });
-
-// mongodb+srv://oskarnurm:thinkboard@cluster0.mat1k1a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
